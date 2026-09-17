@@ -95,8 +95,8 @@ Videos: [Create a Scorecard](https://www.loom.com/share/8d630ef049494b209de63a2e
 
 ### Step Six: Make it Aesthetic
 
-- [ ] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
-- [ ] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
+- [x] Evaluate the current dashboard and make some decisions on what would make the dashboard more aesthetically pleasing.
+- [x] Create some new columns either in the “analysis” tab or in the “pivot tables” tab to consolidate data into the minimal number of categories in order to best visually represent it in the dashboard.
 - [x] Upload the Tech-Moms logo to the dashboard.
 - [x] Update the Dashboard theme to use Tech-Moms’ brand colors.
 
