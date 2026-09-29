@@ -66,7 +66,7 @@ The `ORDER BY` clause sorts the query results based on specified columns, either
 
 _Estimated time to complete: 1.5 hours_
 
-- [ ] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
+- [x] Watch [this video series](https://www.youtube.com/playlist?list=PLUaB-1hjhk8G5zci4HA8E21x2BJS3jzNm) by Alex the Analyst about Intermediate SQL 
 
 ## Hands-On Practice:  
 
@@ -83,4 +83,4 @@ Additional resources:
 
 _Estimated time to complete: 6 hours_
 
-- [ ] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_4/assignment.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/39). 
+- [x] Complete the SQL assignment [here](https://github.com/Tech-Moms/data_ai_fall_2026/blob/main/module_4/assignment.md) and drop in your completed project in [this discussion](https://github.com/Tech-Moms/data_ai_fall_2026/discussions/39). 
