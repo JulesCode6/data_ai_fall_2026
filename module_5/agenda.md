@@ -6,6 +6,8 @@
 
 * What's your sibling order?** 🥇 Oldest? 🥪 Middle? 🐣 Youngest? ⭐ Only child?
 * Do you feel like your sibling order has helped shape your personality?
+OR
+* What is your AI comfort level? Hesitant to share? OK with whatever? 
 
 🏠 Housekeeping
 *  ✅ Assignments check-in
