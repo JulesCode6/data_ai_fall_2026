@@ -40,7 +40,7 @@ Want to try something new? Find a dataset, analyze it, and turn it into a story:
 
 > ⚠️ If you choose a new dataset, plan for extra time. You'll need to explore and analyze the data before you can find your story.
 
-- [ ] I've chosen my dashboard or dataset
+- [x] I've chosen my dashboard or dataset
 
 > 💡 Pick data you find interesting. It's much easier to tell a story you care about.
 
